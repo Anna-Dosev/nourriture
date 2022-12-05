@@ -1,0 +1,20 @@
+* {
+font-family: sans-serif;
+}
+
+.navbar {
+background-color:#32384d;
+width: 100%;
+text-transform: uppercase;
+letter-spacing: 0.25em;
+display: flex;
+flex-direction: row;
+padding: 25px 0;
+}
+
+.navitem {
+color: white;
+text-decoration: none;
+margin: 0 25px;
+cursor: pointer;
+}
